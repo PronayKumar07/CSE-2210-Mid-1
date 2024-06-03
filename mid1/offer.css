@@ -1,0 +1,14 @@
+
+.t-head{
+    background-color: darkgreen;
+    color: azure;
+}
+
+td{
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse; 
+    border: none; 
+}
